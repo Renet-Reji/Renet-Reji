@@ -17,7 +17,7 @@ Building AI-powered applications that solve real-world problems.
 
 ---
 
-# 🐍 Contributions
+# Contributions
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Renet-Reji/Renet-Reji/output/snake.svg"/>
@@ -49,19 +49,17 @@ Building AI-powered applications that solve real-world problems.
 
 # 📊 GitHub Metrics
 
-> Requires a `metrics.yml` GitHub Action.
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Renet-Reji/Renet-Reji/main/github-metrics.svg"/>
 </p>
 
----
+<!-- ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Renet-Reji&theme=onedark&no-frame=true&margin-w=15"/>
-</p>
+</p> -->
 
 ---
 
