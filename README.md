@@ -102,115 +102,137 @@ Building AI-powered applications that solve real-world problems.
 
 # 💻 Tech Stack
 
-## Languages
+<table align="center">
 
-<p align="center">
+<tr>
+<td align="center" colspan="8">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-title="Python"
-alt="Python"
-width="50"/>
+### 💻 Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-title="C"
-alt="C"
-width="50"/>
+</td>
+</tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-title="Java"
-alt="Java"
-width="50"/>
+<tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-title="HTML5"
-alt="HTML5"
-width="50"/>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/><br>Python
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-title="CSS3"
-alt="CSS3"
-width="50"/>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" title="C"/><br>C
+</td>
 
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java"/><br>Java
+</td>
 
-## Frameworks
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/><br>HTML5
+</td>
 
-<p align="center">
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" title="CSS3"/><br>CSS3
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-title="Bootstrap"
-width="50"/>
+</tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-title="Tailwind CSS"
-width="50"/>
+<tr>
+<td align="center" colspan="8">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-title="React"
-width="50"/>
+### 🚀 Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-title="Flask"
-width="50"/>
+</td>
+</tr>
 
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg"
-title="Streamlit"
-width="50"/>
+<tr>
 
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" title="Bootstrap"/><br>Bootstrap
+</td>
 
-## AI / ML
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" title="Tailwind CSS"/><br>Tailwind
+</td>
 
-<p align="center">
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" title="React"/><br>React
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
-title="OpenCV"
-width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="70" title="Flask"/><br>Flask
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-title="NumPy"
-width="50"/>
+<td align="center">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="55" title="Streamlit"/><br>Streamlit
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-title="Pandas"
-width="50"/>
+</tr>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-title="Scikit-learn"
-width="50"/>
+<tr>
+<td align="center" colspan="8">
 
-</p>
+### 🤖 AI / ML
 
-## Tools
+</td>
+</tr>
 
-<p align="center">
+<tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-title="Git"
-width="50"/>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" title="OpenCV"/><br>OpenCV
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-title="GitHub"
-width="50"/>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" title="NumPy"/><br>NumPy
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-title="Linux"
-width="50"/>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" title="Pandas"/><br>Pandas
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-title="VS Code"
-width="50"/>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" title="Scikit-Learn"/><br>Scikit-Learn
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-title="MySQL"
-width="50"/>
+</tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
-title="SQLite"
-width="50"/>
+<tr>
+<td align="center" colspan="8">
 
-</p>
+### 🛠️ Tools
 
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-dark.svg" width="55" title="GitHub"/><br>GitHub
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code"/><br>VS Code
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" title="Linux"/><br>Linux
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/><br>MySQL
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" title="SQLite"/><br>SQLite
+</td>
+
+</tr>
+
+</table>
 ---
 
 # 🌱 Currently Learning
@@ -246,12 +268,6 @@ width="50"/>
 </p>
 
 ---
-
-# 👀 Visitor Counter
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Renet-Reji&style=for-the-badge"/>
-</p>
 
 ---
 
