@@ -102,140 +102,84 @@ Building AI-powered applications that solve real-world problems.
 
 # 💻 Tech Stack
 
-<table align="center">
-
-<tr>
-<td align="center" colspan="8">
+<div align="center">
 
 ### 💻 Languages
 
-</td>
-</tr>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/>
+</p>
 
-<tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/><br>Python
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" title="C"/><br>C
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java"/><br>Java
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/><br>HTML5
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" title="CSS3"/><br>CSS3
-</td>
-
-</tr>
-
-<tr>
-<td align="center" colspan="8">
-
-### 🚀 Frameworks
-
-</td>
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" title="Bootstrap"/><br>Bootstrap
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" title="Tailwind CSS"/><br>Tailwind
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" title="React"/><br>React
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="70" title="Flask"/><br>Flask
-</td>
-
-<td align="center">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="55" title="Streamlit"/><br>Streamlit
-</td>
-
-</tr>
-
-<tr>
-<td align="center" colspan="8">
-
-### 🤖 AI / ML
-
-</td>
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" title="OpenCV"/><br>OpenCV
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" title="NumPy"/><br>NumPy
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" title="Pandas"/><br>Pandas
-</td>
-
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" title="Scikit-Learn"/><br>Scikit-Learn
-</td>
-
-</tr>
-
-<tr>
-<td align="center" colspan="8">
-
-### 🛠️ Tools
-
-</td>
-</tr>
-
-<tr align = "center">
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/><br>Git
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-dark.svg" width="55" title="GitHub"/><br>GitHub
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code"/><br>VS Code
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" title="Linux"/><br>Linux
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/><br>MySQL
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" title="SQLite"/><br>SQLite
-</td>
-
-</tr>
-
-</table>
+Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+HTML5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CSS3
 
 ---
 
+### 🚀 Frameworks
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/>
+</p>
+
+Bootstrap &nbsp;&nbsp;&nbsp;
+Tailwind &nbsp;&nbsp;&nbsp;
+React &nbsp;&nbsp;&nbsp;
+Flask &nbsp;&nbsp;&nbsp;
+Streamlit
+
+---
+
+### 🤖 AI / ML
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/>
+</p>
+
+OpenCV &nbsp;&nbsp;&nbsp;
+NumPy &nbsp;&nbsp;&nbsp;
+Pandas &nbsp;&nbsp;&nbsp;
+Scikit-Learn
+
+---
+
+### 🛠️ Tools
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/github/white" title="GitHub" alt="GitHub" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>
+</p>
+
+Git &nbsp;&nbsp;&nbsp;
+GitHub &nbsp;&nbsp;&nbsp;
+VS Code &nbsp;&nbsp;&nbsp;
+Linux &nbsp;&nbsp;&nbsp;
+MySQL &nbsp;&nbsp;&nbsp;
+SQLite
+
+</div>
 # 🌱 Currently Learning
 
 - Deep Learning
