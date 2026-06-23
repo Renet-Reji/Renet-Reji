@@ -1,0 +1,203 @@
+
+<h1 align="center">Hi 👋, I'm Renet Reji</h1>
+
+<h3 align="center">AI • Machine Learning • Computer Vision • Full Stack Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=AI+Developer;Machine+Learning+Enthusiast;Computer+Vision+Developer;Building+Real-World+Projects;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+Building AI-powered applications that solve real-world problems.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RenetReji&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/RenetReji/RenetReji/output/snake.svg"/>
+</p>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RenetReji&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RenetReji&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenetReji&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenetReji&theme=github_dark"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RenetReji&theme=react-dark"/>
+</p>
+
+---
+
+# 📊 GitHub Metrics
+
+> Requires a `metrics.yml` GitHub Action.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/RenetReji/RenetReji/main/github-metrics.svg"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RenetReji&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 AI Product Intelligence System
+- OpenAI CLIP
+- Semantic Product Search
+- Duplicate Product Detection
+- Complementary Product Recommendation
+- Metadata + Vision Retrieval
+
+---
+
+## 🤟 Sign Language Translator V2
+- MediaPipe Hands
+- OpenCV
+- SVM
+- Feature Engineering
+- Real-time Recognition
+
+---
+
+## 🚌 RideInShade
+- Solar Position Analysis
+- Route Direction
+- Vehicle Orientation
+- Smart Seat Recommendation
+
+---
+
+## 🎓 EduVerse AI
+- Offline AI Tutor
+- Speech Recognition
+- Emotion-aware Learning
+- Accessibility
+- Career Guidance
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css"/>
+</p>
+
+## Frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,flask"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+## AI / ML
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,pandas,numpy,sklearn"/>
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,sqlite"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Deep Learning
+- Computer Vision
+- Generative AI
+- MLOps
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+# 📌 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/RenetReji">
+<img src="https://img.shields.io/badge/AI_Product_Intelligence-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/RenetReji">
+<img src="https://img.shields.io/badge/Sign_Language_Translator-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/RenetReji">
+<img src="https://img.shields.io/badge/RideInShade-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/RenetReji">
+<img src="https://img.shields.io/badge/EduVerse_AI-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RenetReji&style=for-the-badge"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/RenetReji">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+## ⚙️ Required GitHub Actions
+
+- ✅ snake.yml
+- ✅ metrics.yml
+
+---
+
+⭐ *Thanks for visiting my profile! If you like my work, consider starring my repositories.*
