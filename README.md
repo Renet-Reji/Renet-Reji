@@ -12,7 +12,7 @@ Building AI-powered applications that solve real-world problems.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RenetReji&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Renet-Reji&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -20,7 +20,7 @@ Building AI-powered applications that solve real-world problems.
 # 🐍 Contributions
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RenetReji/RenetReji/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/Renet-Reji/Renet-Reji/output/snake.svg"/>
 </p>
 
 ---
@@ -28,13 +28,13 @@ Building AI-powered applications that solve real-world problems.
 # 📊 GitHub Dashboard
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RenetReji&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RenetReji&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Renet-Reji&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Renet-Reji&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenetReji&layout=compact&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenetReji&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renet-Reji&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renet-Reji&theme=github_dark"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@ Building AI-powered applications that solve real-world problems.
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RenetReji&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Renet-Reji&theme=react-dark"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ Building AI-powered applications that solve real-world problems.
 > Requires a `metrics.yml` GitHub Action.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RenetReji/RenetReji/main/github-metrics.svg"/>
+<img src="https://raw.githubusercontent.com/Renet-Reji/Renet-Reji/main/github-metrics.svg"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Building AI-powered applications that solve real-world problems.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RenetReji&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Renet-Reji&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -145,19 +145,19 @@ Building AI-powered applications that solve real-world problems.
 
 <p align="center">
 
-<a href="https://github.com/RenetReji">
+<a href="https://github.com/Renet-Reji">
 <img src="https://img.shields.io/badge/AI_Product_Intelligence-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/RenetReji">
+<a href="https://github.com/Renet-Reji">
 <img src="https://img.shields.io/badge/Sign_Language_Translator-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/RenetReji">
+<a href="https://github.com/Renet-Reji">
 <img src="https://img.shields.io/badge/RideInShade-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/RenetReji">
+<a href="https://github.com/Renet-Reji">
 <img src="https://img.shields.io/badge/EduVerse_AI-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -168,7 +168,7 @@ Building AI-powered applications that solve real-world problems.
 # 👀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RenetReji&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Renet-Reji&style=for-the-badge"/>
 </p>
 
 ---
@@ -185,7 +185,7 @@ Building AI-powered applications that solve real-world problems.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/RenetReji">
+<a href="https://github.com/Renet-Reji">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
