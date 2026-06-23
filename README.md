@@ -204,7 +204,7 @@ Building AI-powered applications that solve real-world problems.
 </td>
 </tr>
 
-<tr>
+<tr align = "center">
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/><br>Git
@@ -233,6 +233,7 @@ Building AI-powered applications that solve real-world problems.
 </tr>
 
 </table>
+
 ---
 
 # 🌱 Currently Learning
