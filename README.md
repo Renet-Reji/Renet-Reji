@@ -159,25 +159,24 @@ Scikit-Learn
 ### 🛠️ Tools
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/github/white" title="GitHub" alt="GitHub" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/white" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>
 </p>
 
-Git &nbsp;&nbsp;&nbsp;
-GitHub &nbsp;&nbsp;&nbsp;
-VS Code &nbsp;&nbsp;&nbsp;
-Linux &nbsp;&nbsp;&nbsp;
-MySQL &nbsp;&nbsp;&nbsp;
+<p align="center">
+Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+GitHub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+VS Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+MySQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 SQLite
+</p>
 
 </div>
 # 🌱 Currently Learning
