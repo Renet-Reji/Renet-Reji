@@ -107,26 +107,110 @@ Building AI-powered applications that solve real-world problems.
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+title="Python"
+alt="Python"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+title="C"
+alt="C"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+title="Java"
+alt="Java"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+title="HTML5"
+alt="HTML5"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+title="CSS3"
+alt="CSS3"
+width="50"/>
+
 </p>
 
 ## Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,flask"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+title="Bootstrap"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+title="Tailwind CSS"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+title="React"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+title="Flask"
+width="50"/>
+
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg"
+title="Streamlit"
+width="50"/>
+
 </p>
 
 ## AI / ML
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,pandas,numpy,sklearn"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
+title="OpenCV"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+title="NumPy"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+title="Pandas"
+width="50"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+title="Scikit-learn"
+width="50"/>
+
 </p>
 
 ## Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,sqlite"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+title="Git"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+title="GitHub"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+title="Linux"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+title="VS Code"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+title="MySQL"
+width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+title="SQLite"
+width="50"/>
+
 </p>
 
 ---
@@ -177,11 +261,11 @@ Building AI-powered applications that solve real-world problems.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/renet-mammen-reji/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:renetmammen05@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -193,10 +277,10 @@ Building AI-powered applications that solve real-world problems.
 
 ---
 
-## ⚙️ Required GitHub Actions
+<!-- ## ⚙️ Required GitHub Actions
 
 - ✅ snake.yml
-- ✅ metrics.yml
+- ✅ metrics.yml -->
 
 ---
 
