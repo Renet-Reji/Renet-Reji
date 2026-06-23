@@ -60,7 +60,7 @@ Building AI-powered applications that solve real-world problems.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Renet-Reji&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Renet-Reji&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
 ---
